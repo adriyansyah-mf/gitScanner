@@ -25,7 +25,7 @@ go run main.go
 ## Usage
 
 ```golang
-import foobar
+
 
 go run main.go
 
